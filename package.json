@@ -1,0 +1,29 @@
+{
+  "name": "bhanubais-html",
+  "version": "1.0.0",
+  "description": "Zurb Foundation's Panini for template, sass, autoprefixer, imagemin, live-server and more...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanubais/BhanuBais-HTML.git"
+  },
+  "keywords": [
+    "html",
+    "sass",
+    "autoprefixer",
+    "imagemin",
+    "panini",
+    "workflow",
+    "autotask",
+    "live-server"
+  ],
+  "author": "Bhanu Bais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhanubais/BhanuBais-HTML/issues"
+  },
+  "homepage": "https://github.com/bhanubais/BhanuBais-HTML#readme"
+}
