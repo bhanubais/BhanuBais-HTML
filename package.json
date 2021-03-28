@@ -28,8 +28,10 @@
   "homepage": "https://github.com/bhanubais/BhanuBais-HTML#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "node-sass": "^5.0.0",
     "panini": "^1.7.1"
